@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/gameassist/static/css/main.15269f33.css",
-    "main.js": "/gameassist/static/js/main.80b1faee.js",
+    "main.js": "/gameassist/static/js/main.b1df207c.js",
     "static/media/io.png": "/gameassist/static/media/io.a4c76f9bf7097f24fea6.png",
     "static/media/getStartedImage.png": "/gameassist/static/media/getStartedImage.dca93391351365287d93.png",
     "static/media/Pudge.png": "/gameassist/static/media/Pudge.effdccae9872db498940.png",
@@ -13,10 +13,10 @@
     "static/media/CounterStrike2.jpg": "/gameassist/static/media/CounterStrike2.66954af1e9c7d6f08e72.jpg",
     "index.html": "/gameassist/index.html",
     "main.15269f33.css.map": "/gameassist/static/css/main.15269f33.css.map",
-    "main.80b1faee.js.map": "/gameassist/static/js/main.80b1faee.js.map"
+    "main.b1df207c.js.map": "/gameassist/static/js/main.b1df207c.js.map"
   },
   "entrypoints": [
     "static/css/main.15269f33.css",
-    "static/js/main.80b1faee.js"
+    "static/js/main.b1df207c.js"
   ]
 }
