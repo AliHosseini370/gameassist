@@ -1,0 +1,12 @@
+export {default as NavBar} from './NavBar';
+export {default as Header} from './Home_Components/Header';
+export {default as GetStarted} from './Home_Components/GetStarted';
+export {default as Select} from './Home_Components/Select';
+export {default as Questions} from './Home_Components/Questions';
+export {default as Comments} from './Home_Components/Comments';
+export {default as Footer} from './Home_Components/Footer';
+export {default as Register} from './Register';
+export {default as Login} from './Login';
+export {default as Home} from './Home';
+export {default as Dota2} from './Dota2';
+export {default as Csgo} from './Csgo';

@@ -1,0 +1,64 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@font-face {
+  font-family: 'Shabnam';
+  src: url('./fonts/Shabnam.woff2') format('woff2'),
+      url('./fonts/Shabnam.woff') format('woff');
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap;
+}
+
+:root {
+  font-family: 'Shabnam';
+  color: white;
+  box-sizing: border-box;
+  padding: 0;
+  margin: 0;
+  scroll-behavior: smooth;
+  /* background: url(./images/bg.jpg) no-repeat center center fixed; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover; */
+  background-color: #22252e
+}
+
+a {
+  color: unset;
+  text-decoration: none;
+}
+
+/* .carousel {
+  position: relative;
+}
+
+.control-arrow {
+  position: absolute;
+  top: 50%;
+  height: 40px;
+}  */
+
+.carousel:hover .control-arrow:hover, .carousel.carousel-slider:hover .control-arrow:hover {
+  background: none;
+}
+
+.comments {
+  background: url(images/io.png) no-repeat center center; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+
+.selectGame {
+  background: url(images/Pudge.png) no-repeat center center; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+
+
