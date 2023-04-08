@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/gameassist/static/css/main.15269f33.css",
+    "main.js": "/gameassist/static/js/main.80b1faee.js",
+    "static/media/io.png": "/gameassist/static/media/io.a4c76f9bf7097f24fea6.png",
+    "static/media/getStartedImage.png": "/gameassist/static/media/getStartedImage.dca93391351365287d93.png",
+    "static/media/Pudge.png": "/gameassist/static/media/Pudge.effdccae9872db498940.png",
+    "static/media/FIFA23_auto_x2.jpg": "/gameassist/static/media/FIFA23_auto_x2.a5ed59930cf0b96c4820.jpg",
+    "static/media/DotaHeader.jpg": "/gameassist/static/media/DotaHeader.8c372ea07818279cc35a.jpg",
+    "static/media/CounterStrike.jpg": "/gameassist/static/media/CounterStrike.ee81d40689ad00ec478f.jpg",
+    "static/media/Shabnam.woff": "/gameassist/static/media/Shabnam.3071005dd6251330d2db.woff",
+    "static/media/Shabnam.woff2": "/gameassist/static/media/Shabnam.d04c93d9a9ecd30ebf61.woff2",
+    "static/media/CounterStrike2.jpg": "/gameassist/static/media/CounterStrike2.66954af1e9c7d6f08e72.jpg",
+    "index.html": "/gameassist/index.html",
+    "main.15269f33.css.map": "/gameassist/static/css/main.15269f33.css.map",
+    "main.80b1faee.js.map": "/gameassist/static/js/main.80b1faee.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.15269f33.css",
+    "static/js/main.80b1faee.js"
+  ]
+}
